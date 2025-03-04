@@ -4,12 +4,12 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.
+1. Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the art and science of designing, building, and maintaining software solutions that solve real-world problems. It's about more than just writing code; it's about creating reliable, efficient, and scalable systems that empower people and industries in their daily lives
 Software engineering is the backbone of the technology industry, transforming abstract ideas into reliable, scalable, and secure systems. Its disciplined approach not only mitigates risks and reduces costs but also accelerates innovation, making it indispensable in a world increasingly reliant on digital solutions. By adhering to engineering principles, the tech industry continues to evolve, supporting global connectivity, economic growth, and advancements that shape modern life
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+2. Identify and describe at least three key milestones in the evolution of software engineering.
 
 Three Key Milestones in Software Engineering:
 1. NATO Conferences (1968–1969)
@@ -19,7 +19,7 @@ Introduced modular code design (e.g., loops, conditionals) to replace error-pron
 3. Agile Manifesto (2001)
 Shifted focus to iterative development, customer collaboration, and flexibility, revolutionizing modern software workflows (e.g., Scrum, DevOps).
 
-List and briefly explain the phases of the Software Development Life Cycle.
+3. List and briefly explain the phases of the Software Development Life Cycle.
 
 Phases of the Software Development Life Cycle (SDLC)
 1. Planning – Define project goals, feasibility, and resource allocation.
@@ -30,7 +30,7 @@ Phases of the Software Development Life Cycle (SDLC)
 6. Deployment – Release the software for users and perform final optimizations.
 7. Maintenance – Provide updates, bug fixes, and improvements based on user feedback.
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
 Approach: Agile is iterative; Waterfall is sequential. Flexibility: Agile adapts to changes; Waterfall follows a set path. Documentation: Agile focuses on communication; Waterfall relies on upfront documentation. Team Structure: Agile teams are cross-functional; Waterfall teams are specialized.
 When to use Waterfall:
@@ -41,7 +41,7 @@ When to use Agile:
 - Projects where client feedback and collaboration are highly valued.
 - Projects with complex or uncertain requirements where continuous adaptation is necessary.
 
-Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
 1. Software Developer
 Role: Designs, codes, and maintains software applications.
@@ -75,7 +75,7 @@ Responsibilities:
 
 In conclusion, each role is critical to the success of a software project. Developers build the product, QA Engineers ensure its quality, and Project Managers keep the team on track and aligned with business objectives. Together, they deliver high-quality software efficiently.
 
-Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 
 1. Importance of Integrated Development Environments (IDEs)
 IDEs streamline the software development process by providing a comprehensive environment for coding, debugging, and testing. They improve productivity by offering features like syntax highlighting, code completion, debugging tools, and built-in compilers.
@@ -92,7 +92,7 @@ Examples of VCS:
 -Mercurial – A distributed VCS similar to Git but designed for scalability and performance.
 Both IDEs and VCS are essential in modern software development, ensuring efficiency, collaboration, and maintainability of projects.
 
-What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 
 Common Challenges & Solutions for Software Engineers
 1. Keeping Up with Technology – Stay updated with tech blogs, courses, and open-source projects.
@@ -103,7 +103,7 @@ Common Challenges & Solutions for Software Engineers
 6. Changing Requirements – Adopt Agile practices, flexible architecture, and regular feedback.
 These strategies help ensure efficiency, quality, and adaptability in software development.
 
-Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
 
 1. Unit Testing
 -Tests individual components or functions in isolation.
@@ -129,7 +129,7 @@ Conclusion: Each testing type plays a critical role in delivering reliable, high
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.
+1. Define prompt engineering and discuss its importance in interacting with AI models.
 
 Prompt engineering is the strategic design and refinement of inputs (prompts) given to AI models to optimize their outputs. It involves crafting clear, specific, and contextually rich instructions to guide AI systems like GPT-4, DALL-E, or Claude toward desired responses.
 Importance in AI Interactions:
