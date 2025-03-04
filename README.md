@@ -12,23 +12,23 @@ Software engineering is the backbone of the technology industry, transforming ab
 2. Identify and describe at least three key milestones in the evolution of software engineering.
 
 Three Key Milestones in Software Engineering:
-1. NATO Conferences (1968–1969)
+2.1. NATO Conferences (1968–1969)
 Coined the term "software engineering," addressing the "software crisis" by advocating systematic, disciplined development practices.
-2. Structured Programming (1970s)
+2.2. Structured Programming (1970s)
 Introduced modular code design (e.g., loops, conditionals) to replace error-prone "spaghetti code," boosting reliability and scalability.
-3. Agile Manifesto (2001)
+2.3. Agile Manifesto (2001)
 Shifted focus to iterative development, customer collaboration, and flexibility, revolutionizing modern software workflows (e.g., Scrum, DevOps).
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
 
 Phases of the Software Development Life Cycle (SDLC)
-1. Planning – Define project goals, feasibility, and resource allocation.
-2. Requirements Analysis – Gather and document user and system requirements.
-3. Design – Create system architecture, UI/UX, and database structures.
-4. Implementation (Coding) – Develop and program the software based on design specifications.
-5. Testing – Identify and fix bugs through unit, integration, and system testing.
-6. Deployment – Release the software for users and perform final optimizations.
-7. Maintenance – Provide updates, bug fixes, and improvements based on user feedback.
+3.1. Planning – Define project goals, feasibility, and resource allocation.
+3.2. Requirements Analysis – Gather and document user and system requirements.
+3.3. Design – Create system architecture, UI/UX, and database structures.
+3.4. Implementation (Coding) – Develop and program the software based on design specifications.
+3.5. Testing – Identify and fix bugs through unit, integration, and system testing.
+3.6. Deployment – Release the software for users and perform final optimizations.
+3.7. Maintenance – Provide updates, bug fixes, and improvements based on user feedback.
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
@@ -43,7 +43,7 @@ When to use Agile:
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
-1. Software Developer
+5.1. Software Developer
 Role: Designs, codes, and maintains software applications.
 Responsibilities:
 -Write clean, efficient, and maintainable code.
@@ -53,7 +53,7 @@ Responsibilities:
 -Integrate third-party APIs and libraries.
 -Stay updated on emerging technologies and best practices.
 
-2. Quality Assurance (QA) Engineer
+5.2. Quality Assurance (QA) Engineer
 Role: Ensures the software meets quality standards and user requirements.
 Responsibilities:
 -Develop and execute test plans and test cases.
@@ -63,7 +63,7 @@ Responsibilities:
 -Ensure compliance with quality standards and regulations.
 -Continuously improve testing processes and tools.
 
-3. Project Manager
+5.3. Project Manager
 Role: Oversees the planning, execution, and delivery of software projects.
 Responsibilities:
 -Define project scope, goals, and deliverables.
